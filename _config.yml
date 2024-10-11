@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Aaron McVey"
-  pronouns         : # example: "he/him"  
+  pronouns         : "he/him"  
   bio              : "ITOA student at Havre de Grace high school"
   location         : "Maryland, United States of America"
   employer         : "Student"
