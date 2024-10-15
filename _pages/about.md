@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -40,10 +40,6 @@ computer science.
 - Presidential Award for Academic Excellence (2019)(Elementary School)
 
 # Personal Projects
-**Java Game Project (2022 - 2023)**
-- Created a platform game with death, point, and moving functions in Java Eclipse IDE for Java Fundamentals class.
-- \>90%
-
 **Programming Portfolio Project (Present)**
 - Making a to-do list application in Java Eclipse IDE to add to my professional portfolio
   
