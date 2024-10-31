@@ -40,7 +40,7 @@ computer science.
 - Presidential Award for Academic Excellence (2019)(Elementary School)
 
 # Personal Projects
-**Programming Portfolio Project (Present)**
+[**To-do list project(2024)**](https://github.com/amcvey1219/todolist)
 - Making a to-do list application in Java Eclipse IDE to add to my professional portfolio
   
 # Languages
