@@ -42,6 +42,8 @@ computer science.
 # Personal Projects
 [**To-do list project(2024)**](https://github.com/amcvey1219/todolist)
 - Making a to-do list application in Java Eclipse IDE to add to my professional portfolio
+[**Calculator Project(2025)**](https://github.com/amcvey1219/calculator)
+- Making a calculator application in Java Eclipse IDE with a partner
   
 # Languages
 - English (Native Proficiency)
