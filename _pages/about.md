@@ -40,11 +40,17 @@ computer science.
 - Presidential Award for Academic Excellence (2019)(Elementary School)
 
 # Personal Projects
-[**To-do list project(2024)**](https://github.com/amcvey1219/todolist)
-- Making a to-do list application in Java Eclipse IDE to add to my professional portfolio
+[**To-do List Project(2024)**](https://github.com/amcvey1219/todolist)
+- Made a to-do list application in Java Eclipse IDE
 
 [**Calculator Project(2025)**](https://github.com/amcvey1219/calculator)
-- Making a calculator application in Java Eclipse IDE with a partner
+- Made a calculator application in Java Eclipse IDE with a partner (unfinished)
+
+[**War Game Project(2025)**](https://github.com/amcvey1219/war)
+- Made a game application of the game 'war' in Java Eclipse IDE
+
+[**Welcome to... Game Project(2025)**](https://github.com/amcvey1219/welcometogame)
+- Made a web game version of the game 'Welcome to...' in VSCode using HTML, Javascript, and CSS
   
 # Languages
 - English (Native Proficiency)
@@ -56,4 +62,3 @@ computer science.
 - Computer science
 - Graphic design
 - Art/Animation
-- 3D modelling
